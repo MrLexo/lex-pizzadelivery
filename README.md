@@ -1,5 +1,3 @@
-🍕 Pizza Delivery for FiveM
-
 ## 📌 Overview
 
 **Pizza Delivery** is a lightweight activity built for QBCore servers.
